@@ -4,6 +4,8 @@ A reusable skill for classifying, structuring, reviewing, and generating **B2B C
 
 > **Core idea:** classify the page first, then generate the right admin structure.
 
+![CRM Ant Design Admin Spec Banner](visual-assets/banner.jpg)
+
 ---
 
 ## Why this skill exists
@@ -226,6 +228,14 @@ These help explain:
 - the skill positioning
 - the classification logic
 - the value of page-type-first design guidance
+
+### Demo case
+
+![Demo Case - AI Insights](visual-assets/demo-case-ai-insights.jpg)
+
+### Skill flow overview
+
+![Skill Flow Overview](visual-assets/skill-flow-overview.jpg)
 
 ---
 
